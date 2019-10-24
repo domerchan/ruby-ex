@@ -239,7 +239,8 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your Ruby application on OpenShift by Do</h1>
+            <h1>Introduccion a OpenShift para la mejor clase del mundo Plataformas Web </h1>
+            <h2>Por Domenica Merchan & Alejandro Enriquez</h2>
           </hgroup>
 
 
